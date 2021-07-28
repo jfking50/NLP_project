@@ -1,1 +1,3 @@
-# NLP_project
+# NLP Project
+
+Entity extraction and knowledge graphs.
